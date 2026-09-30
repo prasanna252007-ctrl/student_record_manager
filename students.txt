@@ -1,0 +1,6 @@
+{'Roll No': '11', 'Name': 'B.Prasanna', 'Email': 'prasanna@gmail.com',   'Course': 'IT'}
+{'Roll No': '12', 'Name': 'K.Priya', 	'Email': 'priyakurma@gmail.com', 'Course': 'CSE'}
+{'Roll No': '13', 'Name': 'G.Lakshmi',	'Email': 'laskhmigaja@gmail.com','Course': 'IT'}
+{'Roll No': '14', 'Name': 'K.Sahithi',  'Email': 'sahithik12@gmail.com',  'Course': 'IT'}
+{'Roll No': '15', 'Name': 'A.Akhila',   'Email': 'akhila123@gmail.com',   'Course': 'ECE'}
+{'Roll No': '16', 'Name': 'L.Ramya',    'Email': 'ramyal@gmail.com',      'Course': 'ECE'}
